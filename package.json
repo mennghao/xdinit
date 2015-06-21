@@ -1,0 +1,30 @@
+{
+  "name": "xdinit",
+  "version": "1.0.0",
+  "description": "quickly create a new project for xiaodian",
+  "main": "index.js",
+  "bin": {
+    "xdinit" : "./bin/xdinit.js"
+  },
+  "dependencies": {
+    "commander": "^2.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mennghao/xdinit.git"
+  },
+  "keywords": [
+    "project",
+    "init"
+  ],
+  "author": "Raito_MH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mennghao/xdinit/issues"
+  },
+  "homepage": "https://github.com/mennghao/xdinit"
+}
